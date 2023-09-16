@@ -1,6 +1,4 @@
-#Aaron Aguilar-Chavez
-#Complete
-#
+
 
 '''Write a program that asks the user to enter the number of packages purchased.  The program should then display 
 the dollar amount of the discount (if any) and the total amount of the purchase after discount. Your program should 
